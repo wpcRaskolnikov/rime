@@ -1,0 +1,6 @@
+import_tables:
+  - luna_pinyin
+  - luna_pinyin_simp.hanyu
+  - luna_pinyin_simp.poetry
+  - luna_pinyin_simp.cn_en
+  - my
